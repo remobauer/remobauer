@@ -21,6 +21,10 @@ Most traders don't lose because of their strategy. They lose because of habits: 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-0A66C2?style=flat-square)
 
+### Open source
+
+- [mt5-report-parser](https://github.com/traidingdesk/mt5-report-parser): turn the MetaTrader 5 account history report into clean JSON or CSV
+
 ### Find me
 
 [Website](https://www.traidingdesk.com) · [Traidingdesk on GitHub](https://github.com/traidingdesk) · [Product Hunt](https://www.producthunt.com/@remo_bauer) · [Crunchbase](https://www.crunchbase.com/organization/traidingdesk) · [Instagram](https://www.instagram.com/traidingdesk/) · contact@traidingdesk.com
